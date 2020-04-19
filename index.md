@@ -1,8 +1,23 @@
 ## Welcome to GitHub Pages
 
+<div>this is a div</div
+  
+ <img src="https://www.geek.com/wp-content/uploads/2019/12/baby-yoda-625x351.jpg" alt="Smiley face" height="42" width="42"> 
+
 You can use the [editor on GitHub](https://github.com/manasgaur/manasgaur.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+this is how ou will add things >>>>>>>>>>>>>>.
+
+
+### Jekyll Themes
+i have added this and will be adding another line after a break
+
+cxxx
+
+xxxx
+
 
 ### Markdown
 
