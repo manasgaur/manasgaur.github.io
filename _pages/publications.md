@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-	image: "/assets/images/ai_logo_web.jpg"
+  image: "/images/ai_logo_web.jpg"
 ---
 
 {% include base_path %}

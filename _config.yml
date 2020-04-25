@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Manas Gaur"
-  avatar           : "/assets/images/manas.jpg"
+  avatar           : "/images/manas.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Carolina, US"
   email            :
@@ -279,7 +279,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  
+
   # _pages
   - scope:
       path: ""
