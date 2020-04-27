@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Awards"
+    url: /awards/
   - title: "Publications"
     url: /publications/
   - title: "Internships"
@@ -8,8 +10,6 @@ main:
     url: /talks/
   - title: "Mentorship"
     url: /mentorship/
-  - title: "Collaborators"
-    url: /collaborators/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

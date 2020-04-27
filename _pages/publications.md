@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Conferences
-***
+---
 
 * Arachie, Chidubem*, Manas Gaur*, Sam Anzaroot, William Groves, Ke Zhang, Alejandro Jaimes. "Unsupervised Detection of Sub-events in Large Scale Disasters." 34th AAAI Conference on Articial Intelligence 2020.
 New York City, New York (**Acceptance Rate 20%) (* Equal Contribution)[AAAI-20](http://bit.ly/AAAI20).
@@ -21,7 +21,7 @@ Conference on Web Intelligence, Santiago, Chile, 2018 (**Acceptance Rate 28%) [W
 * Gaur, Manas, Shruti Goel, and Eshaan Jain. "Comparison between Nearest Neighbours and Bayesian Network for demand forecasting in supply chain management." 2nd IEEE International Conference on Computing for Sustainable Global Development, Delhi, India, 2015. [IEEE-Indiacom](http://bit.ly/ieee indiacom)
 
 ## Journals and Book Chapters
-***
+---
 
 * Kursuncu U, Gaur M, Usha Lokala, Krishnaprasad Thirunarayan, Amit Sheth, I. Arpinar B. "Predictive Analysis on Twitter: Techniques and Applications." In Emerging Research Challenges and Opportunities in Computational Social Network Analysis and Mining. Dayton: Springer-Nature; 2018. [SpringerNature](http://bit.ly/twitter_prediction)
 * Wijeratne, S., Sheth, A., Bhatt, S., Balasuriya, L., Al-Olimat, H.S., Gaur, M., Yazdavar, A., and Thirunarayan
@@ -37,15 +37,22 @@ Procedia Computer Science, 2015. [Elsevier](http://bit.ly/pelsevier)
 
 * Gyrard, Amelie, Manas Gaur, Saeedeh Shekarpour, Krishnaprasad Thirunarayan, and Amit Sheth. "Personal-
 ized Health Knowledge Graph". In 1st Workshop on Contextualized Knowledge Graph (CKG) co-located with
-International Semantic Web Conference (ISWC) 2018. [http://bit.ly/iswc conf]
+International Semantic Web Conference 2018. [ISWC-18](http://bit.ly/iswc_conf)
 
 
 ## Symposiums and Poster
-***
+---
 
 * Kursuncu Ugur*, Manas Gaur*, Amit Sheth. "Knowledge infused learning (K-IL): Towards deep incorporation of knowledge in deep learning." In Proc. AAAI Spring Symposium, Combining Machine Learning and Knowledge Engineering in Practice, Stanford University, California, 2020, (*Equal Contribution).[AAAI-20-MAKE](http://bit.ly/AAAI-MAKE)
+* Han, Qiwei, IMR Troya, Mengxin Ji, Manas Gaur, and Leid Zejnilovic. "A Collaborative Filtering Recommender
+System in Primary Care: Towards a Trusting Patient-Doctor Relationship." In 6th IEEE International Conference on Healthcare Informatics, NY, USA, 2018. [ICHI-2018](https://ieeexplore.ieee.org/abstract/document/8419395/)
+* Zejnilovic, Leid, Han, Qiwei, Martinez, Inigo, Ji, Mengxin, Gaur, Manas, "Intelligent Doctor-Patient Matching:
+Building Long-lasting Relationship In Primary Care." Demo in R&D Management Conference, Milan, 2018.
+* Alambo, Amanuel, Manas Gaur, Ugur Kursuncu, Krishnaprasad Thirunarayan, Jeremiah Schumm, Jyotishman
+Pathak, Amit Sheth, "Personalized Prediction of Suicidal Risk for Web-based Intervention." 24th Mental Health
+Services Research Conference, NIMH, Bethesda, Maryland, 2018. [NIMH-2018](https://corescholar.libraries.wright.edu/knoesis/1156/)
 
 ## Challenge
-***
+---
 
 * Organizing KE4IoT (Healthcare and Internet of Things) Challenge at WWW-2018. Organizing Committee: Amelie Gyrard, Mihaela Juganaru-Mathieu, Dr.Amit Sheth, Swati Padhee. [WWW-2018-Challenge](http://bit.ly/WWW2018)
