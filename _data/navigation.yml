@@ -8,6 +8,8 @@ main:
     url: /talks/
   - title: "Mentorship"
     url: /mentorship/
+  - title: "Collaborators"
+    url: /collaborators/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
