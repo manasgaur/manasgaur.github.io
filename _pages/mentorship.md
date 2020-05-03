@@ -9,7 +9,7 @@ I had the opportunity and priviledge to know and mentor some of best students as
 
 ## Undergraduate
 
-![Vedant Khandelwal](/images/vedant.jpg){: width=50 height=50 style="float:left; padding:5px"}
+![Vedant Khandelwal](/images/vedant.jpg){: width=150 height=150 style="float:left; padding:5px"}
 
 
 
