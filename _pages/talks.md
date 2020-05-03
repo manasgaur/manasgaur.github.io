@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. Towards Knowledge-aware Learning for Mental Health Communications: Statistical and Semantic AI [Ppt](http://bit.ly/AII_UTD)
+1. [**Ppt**](http://bit.ly/AII_UTD): Towards Knowledge-aware Learning for Mental Health Communications: Statistical and Semantic AI
     * Delivered at Lecture Series by Center for Machine Learning at The University of Texas at Dallas
     * Host: [Prof(Dr). Sriraam Natarajan](https://starling.utdallas.edu/), Director of Center for Machine Learingand Starling Lab at UT Dallas.
 
