@@ -27,7 +27,7 @@ I had the opportunity and priviledge to know and mentor some of best students as
 
 ![Vamsi Aribandi](/images/vamsi.jpg){: width=50 height=50 style="float:left; padding:5px"}
 
-[Vamsi](https://in.linkedin.com/in/vamsi-aribandi-104464126) is a CS undergrad at [BITS Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/). His research interests lie broadly in Natural Language Processing and Machine Learning with applications to conversations in Mental Healthcare Informatics. Previously, he was an intern at the AI Institute from June to December 2019. After graduating in 2020, he will join Google as an [AI resident](https://research.google/careers/ai-residency/) in Mountain View, California. __Good Luck Vamsi!!__ 
+[Vamsi](https://in.linkedin.com/in/vamsi-aribandi-104464126) is a CS undergrad at [BITS Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/). His research interests lie broadly in Natural Language Processing and Knowledge-infused Learning. Previously, he was an intern at the AI Institute from June to December 2019. After graduating in 2020, he will join Google as an [AI resident](https://research.google/careers/ai-residency/) in Mountain View, California. __Good Luck Vamsi!!__ 
 He also maintains a technical [blog](https://vamsi-aribandi.github.io/).
 
 [Aditya Sharma](https://www.linkedin.com/in/aditya-sharma-0093b0162/)
