@@ -8,22 +8,18 @@
 @import "minimal-mistakes"; // main partials
 
 html {
-    font-family: 'Tangerine', serif;
     font-size: 10px; // change to whatever
   
     @include breakpoint($medium) {
       font-size: 14px; // change to whatever
-      font-family: 'Tangerine', serif;
         
     }
   
     @include breakpoint($large) {
       font-size: 16px; // change to whatever
-      font-family: 'Tangerine', serif;
     }
   
     @include breakpoint($x-large) {
       font-size: 18px; // change to whatever
-      font-family: 'Tangerine', serif;
     }
   }
