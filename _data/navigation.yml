@@ -2,14 +2,16 @@
 main:
   - title: "Awards"
     url: /awards/
-  - title: "Publications"
-    url: /publications/
   - title: "Internships"
     url: /internships/
-  - title: "Talks"
-    url: /talks/
   - title: "Mentorship"
     url: /mentorship/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Services"
+    url: /services/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
