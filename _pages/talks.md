@@ -20,7 +20,7 @@ author_profile: true
     * Delivered at LNM Institute of Information Technology, India
     * Host: [Prof(Dr.) Rahul Banerjee](https://www.lnmiit.ac.in/Employee_ProfileNew.aspx?nDeptID=eagii), Director, LNMIIT, India
 
-5. [**Ppt**] Knowledge-infused Learning in Healthcare
+5. [**Ppt**](https://www.slideshare.net/manasGaur1/py-data-kilhealthcaremanasgauraiinstitute/manasGaur1/py-data-kilhealthcaremanasgauraiinstitute) Knowledge-infused Learning in Healthcare
     * PyData Conference at University of Salamanca, Salamanca, Spain
     * Host: [Dr. Victor Vicente Palacios](https://victorvicpal.github.io/), Clinical Data Scientist, Philips Healthcare Europe. 
     * [Meetup](https://www.meetup.com/es-ES/PyData-Salamanca/events/270546445/)
