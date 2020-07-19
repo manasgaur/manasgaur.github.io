@@ -7,6 +7,7 @@ I had the opportunity and priviledge to know and mentor some of best students as
 
 ## Graduate
 [Amanuel Alambo](https://www.linkedin.com/in/amanuel-alambo-68410825/)
+* Paper accepted in ACM KDD'20 Workshop on Knowledge-infused Mining and Learning. 
 
 
 ## Undergraduate

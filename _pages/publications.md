@@ -6,7 +6,9 @@ author_profile: true
 
 ## Conferences
 ---
-
+* Manas Gaur, Ugur Kursuncu, Amit Sheth, Ruwan Wickramarachchi, and Shweta Yadav. "Knowledge-infused Deep Learning." 31st ACM Conference on Hypertext and Social Media [HT'20](https://dl.acm.org/doi/abs/10.1145/3372923.3404862). 
+* Nirmal Sivaraman, Manas Gaur, Shivansh Baijal, Radha Sai Rupesh Ch V, Sakthi Muthiah and Amit Sheth. "Exo-SIR: An Epidemiological Model to Analyze the Impact of Exogenous Infection of COVID-19 in India." Health Day at 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20). [Preprint Soon]()
+* Thilini Wijesiriwardene, Hale Inan, Ugur Kursuncu, Manas Gaur, Valerie L. Shalin, Krishnaprasad Thirunarayan, Amit Sheth and I. Budak Arpinar. "ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter." 12th International Conference on Social Informatics (SocInfo20) (**Acceptance Rate 33%). [Preprint Soon]()
 * Arachie, Chidubem*, Manas Gaur*, Sam Anzaroot, William Groves, Ke Zhang, Alejandro Jaimes. "Unsupervised Detection of Sub-events in Large Scale Disasters." 34th AAAI Conference on Articial Intelligence 2020.
 New York City, New York (**Acceptance Rate 20%) (* Equal Contribution)[AAAI-20](http://bit.ly/AAAI20).
 * Kursuncu, Ugur, Manas Gaur, Carlos Castillo, Amanuel Alambo, Krishnaprasad Thirunarayan, Valerie Shalin,
