@@ -40,9 +40,17 @@ He also maintains a technical [blog](https://vamsi-aribandi.github.io/).
 ## High School 
 
 [Parth Asawa](https://www.linkedin.com/in/parth-asawa-4a38381a6/)
+
+
 Project: COVID-19 Spain and India: Comparing Policy Implications by Analyzing Epidemiological and Social Media Data
+
+
 [Introductory Video](https://www.youtube.com/watch?v=UeMXpT0Wcgs&t=2s)
 
 [Anim-Addo Emmanuel](https://www.wayup.com/profile/Emmanuel-Anim-Addo-766d6d3567/)
+
+
 Project: Document Extractive Summarization using BERT
+
+
 [Poster](https://drive.google.com/file/d/1qHmVgeb6pFN0sBQa1f1tWvXCrEWeaIG-/view?usp=sharing)
