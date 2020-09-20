@@ -5,12 +5,12 @@ author_profile: true
 ---
 I had the opportunity and priviledge to advise and mentor some of best students aspiring to become data scientists. Feel free to reach out to them and know about their exciting data science projects having high social impact. 
 
-There is a long list of students whose names have not been mentioned here ([but can be found here](https://drive.google.com/file/d/1IPGwabiKWMVCoilXGV_BeZeQl41G3J5W/view)) as I cam currently working with my collaborator and advisor on project scoping. 
+There is a long list of students whose names have not been mentioned here ([but can be found here](https://drive.google.com/file/d/1IPGwabiKWMVCoilXGV_BeZeQl41G3J5W/view)) as I am currently working with my collaborator and advisor on the project scope. 
 
 ## Graduate
 [Amanuel Alambo](https://www.linkedin.com/in/amanuel-alambo-68410825/)
 * Paper accepted in ACM KDD 2020, ACM CSCW, ACM CIKM, and ACM WWW 
-* [Citation: 51, h-index: 4](https://scholar.google.com/citations?user=dR06Y2EAAAAJ&hl=en&oi=ao)
+* [Citation: 53, h-index: 4](https://scholar.google.com/citations?user=dR06Y2EAAAAJ&hl=en&oi=ao)
 
 
 ## Undergraduate
@@ -42,15 +42,11 @@ He also maintains a technical [blog](https://vamsi-aribandi.github.io/).
 [Parth Asawa](https://www.linkedin.com/in/parth-asawa-4a38381a6/)
 
 
-Project: COVID-19 Spain and India: Comparing Policy Implications by Analyzing Epidemiological and Social Media Data
+Project: COVID-19 Spain and India: Comparing Policy Implications by Analyzing Epidemiological and Social Media Data.
 
-
-[Introductory Video](https://www.youtube.com/watch?v=UeMXpT0Wcgs&t=2s)
+An [Introductory Video](https://www.youtube.com/watch?v=UeMXpT0Wcgs&t=2s) on the progress of Parth. 
 
 [Anim-Addo Emmanuel](https://www.wayup.com/profile/Emmanuel-Anim-Addo-766d6d3567/)
 
-
 Project: Document Extractive Summarization using BERT
-
-
-[Poster](https://drive.google.com/file/d/1qHmVgeb6pFN0sBQa1f1tWvXCrEWeaIG-/view?usp=sharing)
+Anim presented a [Poster](https://drive.google.com/file/d/1qHmVgeb6pFN0sBQa1f1tWvXCrEWeaIG-/view?usp=sharing) at UofSC Symposium on Advancing Diversity in Aging Research. 
