@@ -40,7 +40,7 @@ He also maintains a technical [blog](https://vamsi-aribandi.github.io/).
 ## High School 
 
 [Parth Asawa](https://www.linkedin.com/in/parth-asawa-4a38381a6/)
-
+__Congratulations Parth!!__: paper accepted at AAAI 2020 Fall Symposium with remarkable reviews.
 
 Project: COVID-19 Spain and India: Comparing Policy Implications by Analyzing Epidemiological and Social Media Data.
 
