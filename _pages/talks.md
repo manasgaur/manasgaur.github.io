@@ -4,24 +4,43 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. [**Ppt**](http://bit.ly/AII_UTD): Towards Knowledge-aware Learning for Mental Health Communications: Statistical and Semantic AI
+1. [**PPT**](http://bit.ly/AII_UTD): Towards Knowledge-aware Learning for Mental Health Communications: Statistical and Semantic AI
     * Delivered at Lecture Series by Center for Machine Learning at The University of Texas at Dallas
     * Host: [Prof(Dr). Sriraam Natarajan](https://starling.utdallas.edu/), Director of Center for Machine Learingand Starling Lab at UT Dallas.
 
-2. [**Ppt**](http://bit.ly/AII_IIITDdelhi): Knowledge-infused AI for Healthcare: Role of Conceptual Medical Knowledge in Improving Machine Understanding
+2. [**PPT**](http://bit.ly/AII_IIITDdelhi): Knowledge-infused AI for Healthcare: Role of Conceptual Medical Knowledge in Improving Machine Understanding
     * Delivered at Indraprastha Institute of Information Technology, Delhi, India
     * Host: [Dr. Raghava Mutharaju](http://raghavam.github.io/), Assistant Professor, IIIT Delhi
 
-3. [**Ppt**](https://docs.google.com/presentation/d/1F6i6QeI9A_1yFR9nNI2ory8CRK4oKZhviQm3eZMepPY/edit?usp=sharing):Knowledge-infused AI for Healthcare: Role of Conceptual Medical Knowledge in Improving Machine Understanding
+3. [**PPT**](https://docs.google.com/presentation/d/1F6i6QeI9A_1yFR9nNI2ory8CRK4oKZhviQm3eZMepPY/edit?usp=sharing):Knowledge-infused AI for Healthcare: Role of Conceptual Medical Knowledge in Improving Machine Understanding
     * Delivered (Along with Dr. Ugur Kursuncu) at [NIH Grantee Session](https://www.sc-bdhs-conference.org/), University of South Carolina
     * Host: [Prof(Dr). Xiaoming Li](https://www.sc.edu/study/colleges_schools/public_health/faculty-staff/li_xiaoming.php), Health Promotion, Education, and Behavior Arnold School of Public Health, University of South Carolina
 
-4. [**Ppt**](http://bit.ly/Sabudh_ppt): AI for Social Good: Knowledge-aware Characterization of Web Communications to propel Machine Learning
+4. [**PPT**](http://bit.ly/Sabudh_ppt): AI for Social Good: Knowledge-aware Characterization of Web Communications to propel Machine Learning
     * Delivered at LNM Institute of Information Technology, India
     * Host: [Prof(Dr.) Rahul Banerjee](https://www.lnmiit.ac.in/Employee_ProfileNew.aspx?nDeptID=eagii), Director, LNMIIT, India
 
-5. [**Ppt**](https://www.slideshare.net/manasGaur1/py-data-kilhealthcaremanasgauraiinstitute/manasGaur1/py-data-kilhealthcaremanasgauraiinstitute) Knowledge-infused Learning in Healthcare
+5. [**PPT**](https://www.slideshare.net/manasGaur1/py-data-kilhealthcaremanasgauraiinstitute/manasGaur1/py-data-kilhealthcaremanasgauraiinstitute) Knowledge-infused Learning in Healthcare
     * PyData Conference at University of Salamanca, Salamanca, Spain
     * Host: [Dr. Victor Vicente Palacios](https://victorvicpal.github.io/), Clinical Data Scientist, Philips Healthcare Europe. 
     * [Meetup](https://www.meetup.com/es-ES/PyData-Salamanca/events/270546445/)
     * [Youtube](https://www.youtube.com/watch?v=AVEXOtEL0-A)
+
+6. [**PPT**](https://docs.google.com/presentation/d/1bOSsgTRl0zJR2i4tB_FEN9jhb7XY3mml4gUOjzJYwOQ/edit?usp=sharing) Knowledge-infused Statistical Learning for Social Good : COVID Context
+    * PyData Berlin
+    * [Meetup](https://www.meetup.com/pt-BR/PyData-Berlin/events/272384128/)
+    * [Youtube](https://www.youtube.com/watch?v=NHTSm5TW7E0&t=3s)
+
+7. [**PPT**](https://docs.google.com/presentation/d/1qwNuYsJKvqhozO_ON3mfMizoHgLY_7V3QkrU1WdbM40/edit?usp=sharing)
+    * Sabudh Foundation [Data Science Pro Webinar Series](https://sabudh.org/sabudh-data-science-pro-2020-previous-webinar/page/2/)
+    * [Youtube](https://docs.google.com/presentation/d/1qwNuYsJKvqhozO_ON3mfMizoHgLY_7V3QkrU1WdbM40/edit?usp=sharing)
+
+8. [**PPT**](https://docs.google.com/presentation/d/1sUTSvdi2i_ZZQ6v0Lz2JFcbYaYRu4QmmJiUl6eQYP_8/edit?usp=sharing)
+    * [Winter School at Knowledge Graph and Semantic Web Conference](http://www.kgswc.org/winter-school/)
+
+9. [**PPT**]()
+    * Upcoming tutorial on Explainable AI using Knowledge Graphs at [ACM CoDS-COMAD](https://cods-comad.in/tutorials.html)
+    * [Tutorial Thesis](https://scholarcommons.sc.edu/aii_fac_pub/357/)
+    * Spread the word #xaikg
+
+10. **Upcoming Workshop on Knowledge-infused Learning at Knowledge Graph Conference 2021**
