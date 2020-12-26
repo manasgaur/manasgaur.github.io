@@ -4,6 +4,10 @@ permalink: /services/
 author_profile: true
 ---
 
+* PC Member for ACM CSCW 2021
+* PC Member for NeurIPS 2020
+* PC Member for Web Conference 2020
+* PC Member for AI for Social Impact, Special Track @ AAAI 2021
 * Organizer of International Workshop on Knowledge-infused Mining and Learning at 26th ACM KDD
 * PC Member for ACM Conference on Information and Knowledge Management
 * PC Member for Semantic Machine Learning Workshop at ICSC
