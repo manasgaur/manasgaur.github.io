@@ -6,9 +6,11 @@ author_profile: true
 
 ## Conferences
 ---
+* Roy Kaushik, Qi Zhang, Manas Gaur, Amit Sheth, "Knowledge Infused Policy Gradients with Upper Confidence Bound for Relational Bandits", [ECML PKDD](https://ala2021.vub.ac.be/papers/ALA2021_paper_36.pdf)
+* Gaur, Manas, Kaushik Roy, Aditya Sharma, Biplav Srivastava, and Amit Sheth. "" Who can help me?": Knowledge Infused Matching of Support Seekers and Support Providers during COVID-19 on Reddit." International Conference on Healthcare Informatics, 2021. [ICHI Preprint](https://arxiv.org/abs/2105.06398)
 * Manas Gaur, Ugur Kursuncu, Amit Sheth, Ruwan Wickramarachchi, and Shweta Yadav. "Knowledge-infused Deep Learning." 31st ACM Conference on Hypertext and Social Media [HT'20](https://dl.acm.org/doi/abs/10.1145/3372923.3404862). 
-* Nirmal Sivaraman, Manas Gaur, Shivansh Baijal, Radha Sai Rupesh Ch V, Sakthi Muthiah and Amit Sheth. "Exo-SIR: An Epidemiological Model to Analyze the Impact of Exogenous Infection of COVID-19 in India." Health Day at 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20). [Preprint Soon]()
-* Thilini Wijesiriwardene, Hale Inan, Ugur Kursuncu, Manas Gaur, Valerie L. Shalin, Krishnaprasad Thirunarayan, Amit Sheth and I. Budak Arpinar. "ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter." 12th International Conference on Social Informatics (SocInfo20) (**Acceptance Rate 33%). [Preprint Soon]()
+* Nirmal Sivaraman, Manas Gaur, Shivansh Baijal, Radha Sai Rupesh Ch V, Sakthi Muthiah and Amit Sheth. "Exo-SIR: An Epidemiological Model to Analyze the Impact of Exogenous Infection of COVID-19 in India." Health Day at 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'20). [Preprint](https://arxiv.org/abs/2008.06335)
+* Thilini Wijesiriwardene, Hale Inan, Ugur Kursuncu, Manas Gaur, Valerie L. Shalin, Krishnaprasad Thirunarayan, Amit Sheth and I. Budak Arpinar. "ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter." 12th International Conference on Social Informatics (SocInfo20) (**Acceptance Rate 33%). [SocInfo20](https://link.springer.com/chapter/10.1007/978-3-030-60975-7_31)
 * Arachie, Chidubem*, Manas Gaur*, Sam Anzaroot, William Groves, Ke Zhang, Alejandro Jaimes. "Unsupervised Detection of Sub-events in Large Scale Disasters." 34th AAAI Conference on Articial Intelligence 2020.
 New York City, New York (**Acceptance Rate 20%) (* Equal Contribution)[AAAI-20](http://bit.ly/AAAI20).
 * Kursuncu, Ugur, Manas Gaur, Carlos Castillo, Amanuel Alambo, Krishnaprasad Thirunarayan, Valerie Shalin,
@@ -24,12 +26,13 @@ Conference on Web Intelligence, Santiago, Chile, 2018 (**Acceptance Rate 28%) [W
 
 ## Journals and Book Chapters
 ---
-
-* Kursuncu U, Gaur M, Usha Lokala, Krishnaprasad Thirunarayan, Amit Sheth, I. Arpinar B. "Predictive Analysis on Twitter: Techniques and Applications." In Emerging Research Challenges and Opportunities in Computational Social Network Analysis and Mining. Dayton: Springer-Nature; 2018. [SpringerNature](http://bit.ly/twitter_prediction)
+* Gaur, Manas, Keyur Faldu, and Amit Sheth. "Semantics of the Black-Box: Can knowledge graphs help make deep learning systems more interpretable and explainable?." IEEE Internet Computing, 2021. [IEEE Internet Computing](https://ieeexplore.ieee.org/abstract/document/9357868)
+* Gaur Manas, Vamsi Aribandi, Ugur Kursuncu, Amanuel Alambo, Valerie L. Shalin, Krishnaprasad Thirunarayan, Jonathan Beich, Meera Narasimhan, and Amit Sheth. "Knowledge-Infused Abstractive Summarization of Clinical Diagnostic Interviews: Framework Development Study." JMIR Mental Health, 2021. [JMIR](https://mental.jmir.org/2021/5/e20865/)
+* Gaur, Manas, Vamsi Aribandi, Amanuel Alambo, Ugur Kursuncu, Krishnaprasad Thirunarayan, Jonathan Beich, Jyotishman Pathak, and Amit Sheth. "Characterization of time-variant and time-invariant assessment of suicidality on Reddit using C-SSRS." PloS one, 2021. [PLoS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250448)
+* Shayak, B., Mohit M. Sharma, Manas Gaur, and Anand Kumar Mishra. "Impact of reproduction number on the multiwave spreading dynamics of COVID-19 with temporary immunity: A mathematical model." International Journal of Infectious Diseases, 2021. [Elsevier IJID](https://www.sciencedirect.com/science/article/pii/S120197122100028X)
+* Kursuncu Ugur, Manas Gaur, Usha Lokala, Krishnaprasad Thirunarayan, Amit Sheth, I. Arpinar B. "Predictive Analysis on Twitter: Techniques and Applications." In Emerging Research Challenges and Opportunities in Computational Social Network Analysis and Mining. Dayton: Springer-Nature; 2018. [SpringerNature](http://bit.ly/twitter_prediction)
 * Wijeratne, S., Sheth, A., Bhatt, S., Balasuriya, L., Al-Olimat, H.S., Gaur, M., Yazdavar, A., and Thirunarayan
 K., "Feature Engineering for Twitter-based Applications", In Feature Engineering for Machine Learning and Data Analytics Book: Taylor and Francis; 2017. [Taylor&Francis](https://pdfs.semanticscholar.org/8d58/fe45f099da0ca72dca7829a1cd0c21e7b46c.pdf)
-* Gaur, Manas. "Genetically Modied Logistic Regression with Radial Basis Function for Robust Software Eort
-Prediction." Machine Intelligence and Signal Processing. Springer India, 2016. [IJCA]()
 * Goel, Shruti, Manas Gaur, and Eshaan Jain. "Nature inspired algorithms in remote sensing image classication."
 Procedia Computer Science, 2015. [Elsevier](http://bit.ly/pelsevier)
 

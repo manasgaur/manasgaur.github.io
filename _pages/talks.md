@@ -36,11 +36,18 @@ author_profile: true
     * [Youtube](https://docs.google.com/presentation/d/1qwNuYsJKvqhozO_ON3mfMizoHgLY_7V3QkrU1WdbM40/edit?usp=sharing)
 
 8. [**PPT**](https://docs.google.com/presentation/d/1sUTSvdi2i_ZZQ6v0Lz2JFcbYaYRu4QmmJiUl6eQYP_8/edit?usp=sharing)
-    * [Winter School at Knowledge Graph and Semantic Web Conference](http://www.kgswc.org/winter-school/)
+    * [Keynote @ Winter School at Knowledge Graph and Semantic Web Conference](http://www.kgswc.org/winter-school/)
 
-9. [**PPT**]()
-    * Upcoming tutorial on Explainable AI using Knowledge Graphs at [ACM CoDS-COMAD](https://cods-comad.in/tutorials.html)
+9. [**PPT**](https://docs.google.com/presentation/d/1f7k4dXtLyFmlFZ1iTqQvuMRoPxmBo4FfuvTIK3Sp7Nw/edit?usp=sharing)
+    * Tutorial on Explainable AI using Knowledge Graphs at [ACM CoDS-COMAD](https://cods-comad.in/tutorials.html)
     * [Tutorial Thesis](https://scholarcommons.sc.edu/aii_fac_pub/357/)
+    * [Tutorial Video](https://www.youtube.com/watch?v=f1sahXYDjRI&t=9s)
     * Spread the word #xaikg
 
-10. **Upcoming Workshop on Knowledge-infused Learning at Knowledge Graph Conference 2021**
+10. [**PPT**](https://docs.google.com/presentation/d/1Tum_BA8OrXB5uerHAwoasr1t4fYrk4X2T2jlJbs-0Os/edit?usp=sharing)
+    * Invited Talk at [Geekle Python](https://python.geekle.us/) for [ML and AI Global Summit](https://python.geekle.us/agenda)
+
+11. [**PPT**](https://docs.google.com/presentation/d/1xS8v2yAyAgw6lW2g1FiK4g3HFzPC7r6zAaoyjDRSRRw/edit?usp=sharing)
+    * Tutorial on Explainable Data for AI (Knowledge In - Wisdom Out) [KiWo @ AAAI ICWSM 2021](https://aiisc.ai/kiwo-icwsm/)
+    * [Tutorial Video](https://www.youtube.com/watch?v=4UO1waSOQvQ&t=4s)
+    * Spread the word #KiWo2021 #ICWSM2021 #ExplainableData #ExplainableAI #KG4Explainability
