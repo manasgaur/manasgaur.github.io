@@ -1,13 +1,15 @@
 # main links
 main:
+  - title: "Team"
+    url: /mentorship/
   - title: "Awards"
     url: /awards/
   - title: "Internships"
     url: /internships/
-  - title: "Mentorship"
-    url: /mentorship/
   - title: "Publications"
     url: /publications/
+  - title: "Resources"
+    url: /resources/
   - title: "Talks"
     url: /talks/
   - title: "Services"
