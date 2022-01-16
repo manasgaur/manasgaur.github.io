@@ -51,3 +51,7 @@ author_profile: true
     * Tutorial on Explainable Data for AI (Knowledge In - Wisdom Out) [KiWo @ AAAI ICWSM 2021](https://aiisc.ai/kiwo-icwsm/)
     * [Tutorial Video](https://www.youtube.com/watch?v=4UO1waSOQvQ&t=4s)
     * Spread the word #KiWo2021 #ICWSM2021 #ExplainableData #ExplainableAI #KG4Explainability
+
+12. [**PPT**](https://docs.google.com/presentation/d/1JGdik_LI5JMItVHuMycxm55ogmzhwQ6CNlB6RwdPMfk/edit?usp=sharing)
+    * Invited Lecture at TalTech – Tallinn University of Technology
+    * #PersonalizedRecommendation #GoodHabitBuilding #Finance #KnowledgeInfusedLearning #Bookkeeping

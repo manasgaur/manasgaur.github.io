@@ -4,6 +4,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Nominated for University of South Carolina Breakthrough Award from Department of Computer Science and Engineering
+* Turing Fellowship at Alan Turing Institute under EPSRC UKRI grant
 * Recipient of Dataminr AI for Social Good Fellowship
 * ACM-SIGIR Travel Grant to ACM-CIKM Turin, Italy
 * Travel Grant for International Semantic Web Conference, Monterey, San Francisco, USA
@@ -15,4 +17,4 @@ author_profile: true
 * Ministry Human Resource and Development Scholarship, India
 * National Talent Search Examination (NTSE) Scholarship, India
 * NITAT (National Industry Targeted Aptitude Test) Scholarship, India
-* Oracle Certied Java Programmer (OCJP 6.0)
+* Oracle Certified Java Programmer (OCJP 6.0)
