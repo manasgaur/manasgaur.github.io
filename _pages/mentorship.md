@@ -15,7 +15,7 @@ I had the opportunity and priviledge to advise and mentor some of best students 
 * [Vedant Khandelwal](https://scholar.google.com/citations?user=B3o1HIIAAAAJ&hl=en), _AI Institute, University of South Carolina, USA_
 * [Nirmal Kumar Sivaraman](https://www.lnmiit.ac.in/Employee_ProfileNew.aspx?nDeptID=eaesi), _LNMIIT, India_
 * [Mohit Sharma](https://directory.weill.cornell.edu/person/profile/mos4004), _Weill Cornell Medicine, USA_
-* [Rohith Thiruvalluru)](https://directory.weill.cornell.edu/person/profile/rnt4002), _Weill Cornell Medicine, USA_
+* [Rohith Thiruvalluru](https://directory.weill.cornell.edu/person/profile/rnt4002), _Weill Cornell Medicine, USA_
 * [Kunal Dhavale](https://www.linkedin.com/in/kunal-dhavale/), _University of South Carolina, USA_
 * [Ankita Saxena](https://www.linkedin.com/in/ankitasaxena1/?originalSubdomain=in), _Kno.e.sis Center, Wright State University, USA_
 * [Swati Padhee](http://swatipadhee.com/), _Kno.e.sis Center, Wright State University, USA_
