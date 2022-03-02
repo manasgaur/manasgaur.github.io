@@ -6,6 +6,7 @@ author_profile: true
 
 ## Conferences
 ---
+* Ramit Sawhney, Atula_Tejaswi_Neerkaje, **Manas Gaur**.  "A Risk-Averse Mechanism for Suicidality Assessment on Social Media" [ACL 2022](https://drive.google.com/file/d/1wr0KwxmSujt2zo-wjDFRAdKe6cPKQTIl/view?usp=sharing)
 * **Manas Gaur**, Kalpa Gunaratna, Vijay Srinivasan, and Hongxia Jin. "ISEEQ: Information Seeking Question Generation using Dynamic Meta-Information Retrieval and Knowledge Graphs."  [AAAI 2022 Preprint](https://arxiv.org/abs/2112.07622) (**Acceptance Rate 14%).
 * Roy Kaushik, Qi Zhang, **Manas Gaur**, Amit Sheth, "Knowledge Infused Policy Gradients with Upper Confidence Bound for Relational Bandits", [ECML PKDD](https://ala2021.vub.ac.be/papers/ALA2021_paper_36.pdf) (**Acceptance Rate 19%)
 * **Manas Gaur**, Kaushik Roy, Aditya Sharma, Biplav Srivastava, and Amit Sheth. "" Who can help me?": Knowledge Infused Matching of Support Seekers and Support Providers during COVID-19 on Reddit." International Conference on Healthcare Informatics, 2021. [ICHI Preprint](https://arxiv.org/abs/2105.06398)
