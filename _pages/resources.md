@@ -11,4 +11,4 @@ author_profile: true
 
 * <a href="https://github.com/manasgaur/AAAI-22">Supplementary Material of ISEEQ (AAAI)</a> 
 
-* <a href="https://github.com/primate-mh/Primate2022"> PRIMATE @ NAACL </a> **PR**ocess knowledge **I**ntegrated **M**ental he**A**lth da**T**as**E**t)
+* <a href="https://github.com/primate-mh/Primate2022"> PRIMATE @ NAACL </a>: **PR**ocess knowledge **I**ntegrated **M**ental he**A**lth da**T**as**E**t
