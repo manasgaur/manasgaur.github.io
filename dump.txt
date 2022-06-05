@@ -1,0 +1,12 @@
+I am a Ph.D. candidate advised by  <a href="http://amit.aiisc.ai/">Prof. Amit P. Sheth</a> in the Artificial Intelligence Institute</a> at <a href="https://sc.edu/">University of South Carolina</a>. Prior to that, I did my undergraduate from
+<a href="http://aiactr.ac.in/">Netaji Subhas University of Technology</a> (Formerly Ambedkar Institute of Technology) and masters from <a href="http://www.dtu.ac.in/">Delhi Technological University</a>(Formerly Delhi College of Engineering).
+I hold industry research experience as an AI for Social Good Fellow with Dataminr Inc and Research Science Intern with Samsung Research America. I also hold academic research experience
+through support from <a href="https://federalreporter.nih.gov/Projects/Details/?projectId=891050">NIMH</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133842&HistoricalAwards=false">NSF</a> grants. During my early Ph.D days, I was fortunate to collaborate with various non-profits and private healthcare as a Data Science for Social Good Fellow
+with University of Chicago. 
+
+<br>
+<h2 style="font-family:verdana;"><b>Research Interests</b></h2>
+I am intriqued by the challenging problems in artificial intelligence, data mining, natural language processing, and knowledge graphs. In specific, my research, funded from <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1520870"><b style="color:green">NSF</b></a>, is about a class of Neuro-Symbolic AI in which explicit knowledge plays a central role. My dissertation thesis, titled <a href="http://ceur-ws.org/Vol-2657/xproceedings.pdf"><b style="color:Maroon">Knowledge-infused Learning</b></a>
+advances the state of the art in five research thrust areas: (1) Recommender Systems, (2) Learning to Rank, (3) Summarization, (4) Conversational AI, and (5) Computational Social Data Science. 
+An important corollary of my research is that it addresses one of the most important hurdles in the wider acceptance of AI: 91% of the companies surveyed indicated the need to have explainable AI, which forms a pertinent component in KiML. By using KiML, I
+contribute towards this timely need for Interpretable and Explainable Machine Learning. I have demonstrated its benefits in various multidisciplinary research mental healthcare, crisis informatics, conversational information seeking, virtul health assistants, and digital security.

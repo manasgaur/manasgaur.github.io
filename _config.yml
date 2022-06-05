@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Manas Gaur"
   avatar           : "/images/manas.jpg"
-  bio              : "Research Assistant and Ph.D. Student at Artificial Intelligence Institute, University of South Carolina"
-  location         : "South Carolina, US"
+  bio              : "Assistant Professor, Department of CSEE, University of Maryland Baltimore County"
+  location         : "Maryland, US"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:mgaur@email.sc.edu
+      url: mailto:manas@umbc.edu
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/manasgaur/"

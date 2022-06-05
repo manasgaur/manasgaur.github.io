@@ -9,4 +9,6 @@ author_profile: true
 
 * <a href="https://github.com/manasgaur/Knowledge-aware-Assessment-of-Severity-of-Suicide-Risk-for-Early-Intervention"> Suicide Risk Severity Lexicon</a>
 
-* <a href="https://github.com/manasgaur/AAAI-22">Supplementary Material of ISEEQ (AAAI)</a>
+* <a href="https://github.com/manasgaur/AAAI-22">Supplementary Material of ISEEQ (AAAI)</a> 
+
+* <a href="https://github.com/primate-mh/Primate2022"> PRIMATE @ NAACL </a> **PR**ocess knowledge **I**ntegrated **M**ental he**A**lth da**T**as**E**t)

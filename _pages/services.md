@@ -4,6 +4,7 @@ permalink: /services/
 author_profile: true
 ---
 
+* Collaborator in CLPsych Shared Task @ NAACL 2022
 * Facilitator and Moderator of [CASY 2020](https://casy.aiisc.ai). A virtual conference on the theme of Collaborative Assistants for the Society. 
 * PC Member for ACM CSCW 2021
 * PC Member for NeurIPS 2020

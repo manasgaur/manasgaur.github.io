@@ -3,10 +3,12 @@ title: "Team"
 permalink: /mentorship/
 author_profile: true
 ---
-I had the opportunity and priviledge to advise and mentor some of best students at the intersection of Machine Learning, Natural Language Processing, Business Analytics, Human Centered Computing, and Data Science.
+I had the opportunity and priviledge to advise and mentor some of best students at the intersection of Machine Learning, Natural Language Processing, Human Centered Computing, and Data Science.
 
 **Graduate Students**
 
+* [Shrey Gupta](https://in.linkedin.com/in/shrey-gupta-18273518a), _IIIT Hyderabad, India_ 
+* [Anmol Agarwal](https://in.linkedin.com/in/anmol-agarwal-ts999), _IIIT Hyderabad, India_
 * [Amanuel Alambo](https://scholar.google.com/citations?user=dR06Y2EAAAAJ&hl=en), _Kno.e.sis Center, Wright State University, USA_
 * [Renjith Prasad](https://www.linkedin.com/in/renjithprasadk/?originalSubdomain=in), _IIT Jammu, India_
 * [Oumaima Boumlik](https://www.linkedin.com/in/oumaima-boumlik/?locale=en_US), _IMT Lille Douai, France_
@@ -16,7 +18,6 @@ I had the opportunity and priviledge to advise and mentor some of best students 
 * [Nirmal Kumar Sivaraman](https://www.lnmiit.ac.in/Employee_ProfileNew.aspx?nDeptID=eaesi), _LNMIIT, India_
 * [Mohit Sharma](https://directory.weill.cornell.edu/person/profile/mos4004), _Weill Cornell Medicine, USA_
 * [Rohith Thiruvalluru](https://directory.weill.cornell.edu/person/profile/rnt4002), _Weill Cornell Medicine, USA_
-* [Kunal Dhavale](https://www.linkedin.com/in/kunal-dhavale/), _University of South Carolina, USA_
 * [Ankita Saxena](https://www.linkedin.com/in/ankitasaxena1/?originalSubdomain=in), _Kno.e.sis Center, Wright State University, USA_
 * [Swati Padhee](http://swatipadhee.com/), _Kno.e.sis Center, Wright State University, USA_
 
