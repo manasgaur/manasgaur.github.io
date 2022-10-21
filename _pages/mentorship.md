@@ -8,12 +8,12 @@ I had the opportunity and priviledge to advise and mentor some of best students 
 **Graduate (G) and Undergraduate (UG) Students after UMBC** 
 ##### (Kanak is supported with gift award from HealthcareNLP for conversational AI.)
 
-* [Rahul Seetharaman](https://scholar.google.com/citations?user=xg0HllcAAAAJ&hl=en), _UMASS Amherst, USA_ (G)
+* [Harisahan Nookalavenkata](#), _UMBC, USA_ (G)
 * [Surjodeep Sarkar](https://in.linkedin.com/in/surjodeep-sarkar), _UMBC, USA_ (G)
 * [Nancy Tyagi](https://in.linkedin.com/in/nancy-tyagi), _UMBC, USA_ (G)
 * [Vamshi Krishna](https://victorknox.github.io/), _IIIT Hyderabad, India_ (UG)
 * [Kanak Raj](https://in.linkedin.com/in/kanak-raj-a8278i), _BIT Mesra, India_ (UG)
-
+* [Rahul Seetharaman](https://scholar.google.com/citations?user=xg0HllcAAAAJ&hl=en), _UMASS Amherst, USA_ (G)
 
 **Graduate Students before UMBC**
 
