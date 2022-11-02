@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 * Nominated for University of South Carolina Breakthrough Award from Department of Computer Science and Engineering
+* Dissertation Grant from Samsung Research America
 * Turing Fellowship at Alan Turing Institute under EPSRC UKRI grant
 * Recipient of Dataminr AI for Social Good Fellowship
 * ACM-SIGIR Travel Grant to ACM-CIKM Turin, Italy
