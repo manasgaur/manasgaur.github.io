@@ -12,3 +12,12 @@ author_profile: true
 * <a href="https://github.com/manasgaur/AAAI-22">Supplementary Material of ISEEQ (AAAI)</a> 
 
 * <a href="https://github.com/primate-mh/Primate2022"> PRIMATE @ NAACL </a>: **PR**ocess knowledge **I**ntegrated **M**ental he**A**lth da**T**as**E**t
+
+## Tutorials
+
+* [Explainable AI using Knowledge Graphs (@ 26th ACM CoDS-COMAD Conference) ](https://aiisc.ai/xaikg/)
+* [Knowledge In - Wisdom Out - Explainable Data for AI in Cyber Social Threats and Public Health (@ 15th AAAI ICWSM Conference)](https://aiisc.ai/kiwo-icwsm/)
+* [NEURo-symbolic AI fOr meNtal hEalthcare (@ 2nd ACM AI-ML Systems Conference)](https://aiisc.ai/neurone/)
+* [Towards Process Knowledge-infused Learning for Explainable Mental Healthcare (@ 19th International Conference on Natural Language Processing)](https://lcs2.in/ICON-2022/workshops.html)
+* [Knowledge-infused Deep Learning (@ 31st ACM Conference on Hypertext and Social Media)](http://kidl2020.aiisc.ai/)
+* [Knowledge-infused Reinforcement Learning (@ Knowledge Graph Conference)](https://aiisc.ai/kirl/)
