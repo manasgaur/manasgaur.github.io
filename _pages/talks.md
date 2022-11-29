@@ -67,3 +67,17 @@ author_profile: true
 16. [**PPT**](https://docs.google.com/presentation/d/1d1Q_SVurFPO45XOe_1Viq7ixBhAaOl5z9ZRw-95BO54/edit?usp=sharing) : Psychdemic: Measuring Spatio-Temporal Psychological Impact of Novel Coronavirus through Social Quality Index
     * MIT Tech Review Presentation
     * Invited Talk at Weill Cornell Medicine's Division of Healthcare Informatics
+
+17. [**PPT**](https://docs.google.com/presentation/d/1FFAna7Fz6lNxYvocwyNVVpBfst1F5gNyCy8mImm5o70/edit?usp=sharing) : Knowledge-infused Deep Learning
+    * Tutorial at 31st ACM Conference on Hypertext and Social Media
+    * Invited Talk at Big Data and Health Science Conference at The University of South Carolina
+
+18. [**PPT**](https://docs.google.com/presentation/d/1cAiKEHchJXtGW47H6jG6GUY9kREcraXEayluyEevAoE/edit?usp=sharing): Knowledge-infused Learning: Knowledge Graphs for Explainable AI
+    : Invited Talk to UBI AI Podcast Series
+
+19. [**PPT**](https://docs.google.com/presentation/d/1O8mtsqnoQOtquS-OULeqMWctOpYwyBLGtOsozj8etYo/edit?usp=sharing): Knowledge-enhanced Machine Learning Contextualizing Social Media Communications using Domain-Specific Knowledge
+    : Invited Talk at AI Center, Samsung Research America, Mountain View
+
+20. [**PPT**](#) : Towards Process Knowledge-infused Learning for Explainable Mental Healthcare (to-be-delivered)
+    : Invited Tutorial at 19th ACL ICON Conference [Link](https://lcs2.in/ICON-2022/workshops.html)
+
