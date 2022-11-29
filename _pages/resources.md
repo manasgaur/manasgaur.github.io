@@ -13,6 +13,8 @@ author_profile: true
 
 * <a href="https://github.com/primate-mh/Primate2022"> PRIMATE @ NAACL </a>: **PR**ocess knowledge **I**ntegrated **M**ental he**A**lth da**T**as**E**t
 
+* <a href="https://arxiv.org/pdf/2008.06465.pdf"> ALONE @ SocInfo </a>
+
 ## Tutorials
 
 * [Explainable AI using Knowledge Graphs (@ 26th ACM CoDS-COMAD Conference) ](https://aiisc.ai/xaikg/)

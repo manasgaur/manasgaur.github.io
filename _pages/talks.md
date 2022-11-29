@@ -52,3 +52,18 @@ author_profile: true
 12. [**PPT**](https://docs.google.com/presentation/d/1JGdik_LI5JMItVHuMycxm55ogmzhwQ6CNlB6RwdPMfk/edit?usp=sharing): Personalized Book-keeping: Building Good Habits through Knowledge-infused Learning
     * Invited Lecture at TalTech – Tallinn University of Technology
     * #PersonalizedRecommendation #GoodHabitBuilding #Finance #KnowledgeInfusedLearning #Bookkeeping
+
+13. [**PPT**](https://docs.google.com/presentation/d/13s6DVEUMVNLUYTr--z6LOqrWE5jidqq564bMiukXCuA/edit?usp=sharing): Knowledge-infused Reinforcement Learning in Conversational Systems
+    * Tutorial at Knowledge Graph Conference 2022
+    * Invited Talk at International Semantic Intelligence Conference (ISIC) 2022
+
+14. [**PPT**](https://docs.google.com/presentation/d/1VUigoKzSzD8hE2u-1T_eyqgNauVecVAUGrwMNpkXkJc/edit?usp=sharing) : NEURONE: NEURo-symbolic AI fOr meNtal hEalthcare
+    * Invited Tutorial at 2nd ACM AI ML Systems Conference 2022 
+
+15. [**PPT**](https://docs.google.com/presentation/d/1C_lRsuD2nAgmVtJbm-BOC6N9sLGXagMbVXicxLzqRLM/edit?usp=sharing): Process Knowledge-infused AI
+    * [Keynote @ Winter School at Knowledge Graph and Semantic Web Conference](http://www.kgswc.org/winter-school/)
+    * Invited Talk at UMBC's Department of Computer Science and Electrical Engineering
+
+16. [**PPT**](https://docs.google.com/presentation/d/1d1Q_SVurFPO45XOe_1Viq7ixBhAaOl5z9ZRw-95BO54/edit?usp=sharing) : Psychdemic: Measuring Spatio-Temporal Psychological Impact of Novel Coronavirus through Social Quality Index
+    * MIT Tech Review Presentation
+    * Invited Talk at Weill Cornell Medicine's Division of Healthcare Informatics
