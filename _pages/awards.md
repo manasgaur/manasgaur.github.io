@@ -4,6 +4,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+* AAAI New Faculty Highlights 2023
+* UMBC SURFF Award 2023
+* [Best Paper Award](https://ieeexplore.ieee.org/abstract/document/9357868) from IEEE Computer Society
 * Nominated for University of South Carolina Breakthrough Award from Department of Computer Science and Engineering
 * Dissertation Grant from Samsung Research America
 * Turing Fellowship at Alan Turing Institute under EPSRC UKRI grant

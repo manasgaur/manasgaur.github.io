@@ -80,4 +80,3 @@ author_profile: true
 
 20. [**PPT**](#) : Towards Process Knowledge-infused Learning for Explainable Mental Healthcare (to-be-delivered)
     : Invited Tutorial at 19th ACL ICON Conference [Link](https://lcs2.in/ICON-2022/workshops.html)
-
